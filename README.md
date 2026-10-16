@@ -3,4 +3,4 @@ The files `MyClassess` and `MyFunctions` contain helper classes and functions. T
 The `ENFSI_preprocess` script is used to generate training data from the ENFSI database.
 The script for generating data required for pretraining the neural networks (the first stage of transfer learning, using the NIST database) is associated with an earlier article https://doi.org/10.1016/j.chemolab.2025.105421. The corresponding source code is available in the following repository: https://github.com/marek-krosnicki/FunctionalGrups
 Additionall, the repository contains example trained models obtained through the fine-tuning procedure (pretraining on the NIST dataset followed by further training on the ENFSI dataset).
-Please note that the scripts for training neural networks require the 'efficient_kan' library to run, which is available at: https://github.com/Blealtan/efficient-kan 
+Please note that the scripts for training neural networks require the `efficient_kan` library to run, which is available at: https://github.com/Blealtan/efficient-kan 
