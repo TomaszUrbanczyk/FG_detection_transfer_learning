@@ -1,1 +1,1 @@
-
+This directory contains example trained models for both architectures. One example model is provided for each functional group, randomly selected from the 12 models trained during the work on the article. The included models are the result of fine-tuning neural networks (pretrained on the NIST dataset) using the ENFSI dataset.
